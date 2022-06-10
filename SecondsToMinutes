@@ -1,0 +1,2 @@
+var user = prompt("seconds to minutes.");
+alert(user / 60 + "minutes")
